@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Shubham Kushwaha 👋
 
-<!--
-**kushwahashubham969-dev/kushwahashubham969-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI/ML Engineer | Python Developer
 
-Here are some ideas to get you started:
+🎓 B.Tech in Computer Science Engineering (AI & ML)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Programming, Artificial Intelligence and Web Development.
+
+### 🚀 About Me
+
+- 🔭 Currently working on Python and Web Development projects.
+- 🌱 Learning Data Structures & Algorithms and Machine Learning.
+- 👨‍💻 Interested in building real-world applications.
+- 🎯 Goal: Become a skilled AI/ML Engineer.
+- ⚡ Always exploring new technologies.
+
+### 🛠️ Technical Skills
+
+**Languages:** Python, C, JavaScript
+
+**Web Development:** HTML, CSS, Flask
+
+**Database:** SQL, PostgreSQL
+
+**Tools:** Git, GitHub, VS Code, Docker
+
+**Learning:** DSA, Machine Learning, Data Analysis
+
+### 📂 Featured Projects
+
+**Blue Heaven Parlour Website**
+- Developed using Python and Flask.
+- Appointment booking functionality.
+- PostgreSQL database integration.
+
+**Python DSA Practice**
+- Solving programming problems using Python.
+- Improving problem-solving skills.
+
+### 📫 Connect With Me
+
+- GitHub: [My GitHub](https://github.com/kushwahashubham969-dev)
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
